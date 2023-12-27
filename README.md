@@ -4,7 +4,7 @@
 [![golang: Zuki](https://img.shields.io/badge/golang-blue?logo=go&logoColor=white)](https://go.dev/)
 [![C: Zuki](https://img.shields.io/badge/C%20programming-white?logo=c&logoColor=black)](https://www.gnu.org/software/gnu-c-manual/)
 
-![Total Visitors: Zuki](https://komarev.com/ghpvc/?username=zukigit&color=green&style=plastic)
+[![Total Visitors: Zuki](https://komarev.com/ghpvc/?username=zukigit&color=green&style=plastic)](https://github.com/zukigit)
 [![Github](https://img.shields.io/github/followers/zukigit?label=Follow&style=social)](https://github.com/zukigit)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zukigit&hide=html)
