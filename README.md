@@ -1,4 +1,4 @@
-[![DockerHub: zukidocker](https://img.shields.io/badge/docker-black?style=plastic&logo=docker&logoColor=blue)](https://hub.docker.com/u/zukidocker)
+[![DockerHub: zukidocker](https://img.shields.io/badge/docker-black?logo=docker&logoColor=blue)](https://hub.docker.com/u/zukidocker)
 [![aws: Zuki](https://img.shields.io/badge/aws-black?logo=AmazonAWS&logoColor=yellow)](https://aws.amazon.com/)
 [![kubernetes: Zuki](https://img.shields.io/badge/kubernetes-blue?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![golang: Zuki](https://img.shields.io/badge/golang-blue?logo=go&logoColor=white)](https://go.dev/)
