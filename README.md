@@ -3,7 +3,8 @@
 [![kubernetes: Zuki](https://img.shields.io/badge/kubernetes-blue?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![golang: Zuki](https://img.shields.io/badge/golang-blue?logo=go&logoColor=white)](https://go.dev/)
 [![C: Zuki](https://img.shields.io/badge/C%20programming-white?logo=c&logoColor=black)](https://www.gnu.org/software/gnu-c-manual/)
-[![C: Zuki](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Java: Zuki](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Linux: Zuki](https://img.shields.io/badge/Redhat-black?logo=redhat&logoColor=red)](https://www.redhat.com/)
 
 [![Total Visitors: Zuki](https://komarev.com/ghpvc/?username=zukigit&color=green&style=plastic)](https://github.com/zukigit)
 [![Github](https://img.shields.io/github/followers/zukigit?label=Follow&style=social)](https://github.com/zukigit)
