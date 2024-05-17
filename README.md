@@ -1,4 +1,3 @@
-https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black
 [![Linux: Zuki](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black)](https://www.linux.org/)
 [![Linux: Zuki](https://img.shields.io/badge/Redhat-black?logo=redhat&logoColor=red)](https://www.redhat.com/)
 [![DockerHub: zukidocker](https://img.shields.io/badge/docker-black?logo=docker&logoColor=blue)](https://hub.docker.com/u/zukidocker)
