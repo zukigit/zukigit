@@ -10,6 +10,7 @@
 ![Gin: Zuki](https://img.shields.io/badge/Gin-black?logo=gin)
 ![Spring: Zuki](https://img.shields.io/badge/Spring-black?logo=spring)
 ![Angular: Zuki](https://img.shields.io/badge/Angular-black?logo=angular&logoColor=red)
+![Angular: Zuki](https://img.shields.io/badge/Flutter-black?logo=flutter)
 
 ### Linux Distributions
 ![Debian: Zuki](https://img.shields.io/badge/Debian-black?logo=debian&logoColor=red)
