@@ -5,12 +5,13 @@
 ![Shell: Zuki](https://img.shields.io/badge/Bash-black?logo=gnubash)
 ![Python: Zuki](https://img.shields.io/badge/Python-black?logo=python)
 ![C: Zuki](https://img.shields.io/badge/C%20programming-black?logo=c)
+![Dart: Zuki](https://img.shields.io/badge/Dart-black?logo=dart&logoColor=blue)
 
 ### Frameworks
 ![Gin: Zuki](https://img.shields.io/badge/Gin-black?logo=gin)
 ![Spring: Zuki](https://img.shields.io/badge/Spring-black?logo=spring)
 ![Angular: Zuki](https://img.shields.io/badge/Angular-black?logo=angular&logoColor=red)
-![Angular: Zuki](https://img.shields.io/badge/Flutter-black?logo=flutter)
+![Flutter: Zuki](https://img.shields.io/badge/Flutter-black?logo=flutter&logoColor=blue)
 
 ### Linux Distributions
 ![Debian: Zuki](https://img.shields.io/badge/Debian-black?logo=debian&logoColor=red)
