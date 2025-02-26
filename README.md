@@ -22,6 +22,7 @@
 [![GitLab CI: zukigit](https://img.shields.io/badge/GitLab_CI-black?logo=gitlab)](https://gitlab.com/zukigit)
 ![Kubernetes: Zuki](https://img.shields.io/badge/Kubernetes-black?logo=kubernetes)
 ![AWS: Zuki](https://img.shields.io/badge/AWS-black?logo=AmazonAWS)
+![AWS: Zuki](https://img.shields.io/badge/GCP-black?logo=googlecloud)
 ![Ansible: Zuki](https://img.shields.io/badge/Ansible-black?logo=ansible&logoColor=red)
 
 
