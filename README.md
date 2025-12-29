@@ -8,6 +8,7 @@
 ![Dart: Zuki](https://img.shields.io/badge/Dart-black?logo=dart&logoColor=blue)
 
 ### Frameworks
+![Gin: Zuki](https://img.shields.io/badge/GRPC-black?logo=gRPC)
 ![Gin: Zuki](https://img.shields.io/badge/Gin-black?logo=gin)
 ![Spring: Zuki](https://img.shields.io/badge/Spring-black?logo=spring)
 ![Angular: Zuki](https://img.shields.io/badge/Angular-black?logo=angular&logoColor=red)
