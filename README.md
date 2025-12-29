@@ -25,10 +25,3 @@
 ![AWS: Zuki](https://img.shields.io/badge/AWS-black?logo=AmazonAWS)
 ![AWS: Zuki](https://img.shields.io/badge/GCP-black?logo=googlecloud)
 ![Ansible: Zuki](https://img.shields.io/badge/Ansible-black?logo=ansible&logoColor=red)
-
-
-
-
-
-<!-- [![Total Visitors: Zuki](https://komarev.com/ghpvc/?username=zukigit&color=green&style=plastic)](https://github.com/zukigit) -->
-![zuki's github stats](https://github-readme-stats.vercel.app/api?username=zukigit&show_icons=true&count_private=true&line_height=40&line_width=500)
