@@ -7,6 +7,11 @@
 ![C: Zuki](https://img.shields.io/badge/C%20programming-black?logo=c)
 ![Dart: Zuki](https://img.shields.io/badge/Dart-black?logo=dart&logoColor=blue)
 
+### Databases
+![Postgres: Zuki](https://img.shields.io/badge/Postgres-black?logo=postgresql)
+![Mysql: Zuki](https://img.shields.io/badge/Mysql-black?logo=mysql)
+![MariaDB: Zuki](https://img.shields.io/badge/MariaDB-black?logo=mariadb)
+
 ### Frameworks
 ![Gin: Zuki](https://img.shields.io/badge/GRPC-black?logo=gRPC)
 ![Gin: Zuki](https://img.shields.io/badge/Gin-black?logo=gin)
