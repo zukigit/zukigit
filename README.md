@@ -1,4 +1,5 @@
 ### Programming Languages
+![Rust: Zuki](https://img.shields.io/badge/Rust-black?logo=rust)
 ![Golang: Zuki](https://img.shields.io/badge/Golang-black?logo=go)
 ![Java: Zuki](https://img.shields.io/badge/Java-black?logo=coffeescript&logoColor=red)
 ![Typescript: Zuki](https://img.shields.io/badge/Typescript-black?logo=typescript)
